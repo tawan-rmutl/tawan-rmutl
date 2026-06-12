@@ -1,5 +1,3 @@
-👋 Tawan
-
 💼 Founder & CEO | Nexa Digital Solutions
 
 Technology Entrepreneur focused on digital innovation, software solutions, and business transformation.

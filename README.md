@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Tawan
 
-<!--
-**tawan-rmutl/tawan-rmutl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Computer Engineering Student
 
-Here are some ideas to get you started:
+📍 Thailand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 First-Year Computer Engineering Student
+- 💻 Interested in Programming and Technology
+- 📚 Currently learning Computer Science Fundamentals
+- 🚀 Building skills for future software and technology projects
+
+## Goals
+
+- Learn programming and software development
+- Build practical projects
+- Develop problem-solving skills
+- Grow as a future engineer
+
+---
+⭐ Learning today, creating tomorrow.
